@@ -1,2 +1,2 @@
 # RNA Seq Analysis in R
-RNA-Seq samples were analyzed using R package using DESeq2
+RNA-Seq samples were analyzed using DESeq2 in R
